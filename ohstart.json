@@ -3,6 +3,7 @@
   "author": "Twisuki",
   "description": "xtwis templates",
   "scripts": {
-    "base": "scripts/base"
+    "base": "scripts/base",
+    "build": "scripts/build"
   }
 }
