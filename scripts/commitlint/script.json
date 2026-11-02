@@ -1,0 +1,5 @@
+{
+  "name": "commitlint",
+  "type": "add",
+  "description": "安装 commitlint 提交规范"
+}

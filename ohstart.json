@@ -5,6 +5,7 @@
   "scripts": {
     "base": "scripts/base",
     "build": "scripts/build",
-    "eslint": "scripts/eslint"
+    "eslint": "scripts/eslint",
+    "commitlint": "scripts/commitlint"
   }
 }
