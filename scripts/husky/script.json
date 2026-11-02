@@ -1,0 +1,5 @@
+{
+  "name": "husky",
+  "type": "add",
+  "description": "安装 husky git hooks"
+}

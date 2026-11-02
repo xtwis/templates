@@ -6,6 +6,7 @@
     "base": "scripts/base",
     "build": "scripts/build",
     "eslint": "scripts/eslint",
-    "commitlint": "scripts/commitlint"
+    "commitlint": "scripts/commitlint",
+    "husky": "scripts/husky"
   }
 }
