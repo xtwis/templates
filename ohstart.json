@@ -4,6 +4,7 @@
   "description": "xtwis templates",
   "scripts": {
     "base": "scripts/base",
-    "build": "scripts/build"
+    "build": "scripts/build",
+    "eslint": "scripts/eslint"
   }
 }

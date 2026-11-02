@@ -1,0 +1,5 @@
+{
+  "name": "eslint",
+  "type": "add",
+  "description": "安装 antfu eslint 配置"
+}
