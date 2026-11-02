@@ -2,5 +2,7 @@
   "name": "xtwis",
   "author": "Twisuki",
   "description": "xtwis templates",
-  "scripts": {}
+  "scripts": {
+    "base": "scripts/base"
+  }
 }
