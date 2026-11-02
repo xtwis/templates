@@ -1,0 +1,22 @@
+{
+  "name": "xtwis-ohstart-source",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "tsc --noEmit",
+    "lint": "eslint",
+    "fix": "eslint --fix",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^10.0.0",
+    "@commitlint/cli": "^21.2.3",
+    "@commitlint/config-conventional": "^21.2.3",
+    "@types/node": "^26.0.0",
+    "@xtwis/ohstart-dev": "^1.0.1",
+    "eslint": "^10.13.0",
+    "eslint-plugin-format": "^2.0.1",
+    "husky": "^9.1.7",
+    "typescript": "^6.0.0"
+  }
+}
